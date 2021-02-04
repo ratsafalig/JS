@@ -6,7 +6,8 @@
         "webpacksh": "webpack serve -h",
         "webpacks": "webpack serve -c ./webpack.config.js",
         "start": "react-scripts start",
-        "webpackp": "webpack --profile --json > stats.json"
+        "webpackp": "webpack --profile --json > stats.json",
+        "create" : "create-react-app ui"
     },
     "dependencies": {
         "@ant-design/aliyun-theme": "^0.0.4",
